@@ -1,15 +1,12 @@
 <?php
 /**
- * @link      https://github.com/chrmorandi/yii2-jasper for the canonical source repository
- * @package   yii2-jasper
- * @author    Christopher Mota <chrmorandi@gmail.com>
+ * @link      https://github.com/diskingressos/yii2ireport
+ * @package   yii2ireport
+ * @author    Anderson Silva <anderson@fazti.com.br>
  * @license   MIT License - view the LICENSE file that was distributed with this source code.
  */
 
 namespace diskingressos\yii2ireport;
-
-include_once('class/fpdf/fpdf.php');
-include_once('class/PHPJasperXML.inc');
 
 use yii\base\Component;
 use yii\base\Exception;

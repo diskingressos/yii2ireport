@@ -1,4 +1,11 @@
 <?php
+/**
+ * @link      https://github.com/diskingressos/yii2ireport
+ * @package   yii2ireport
+ * @author    Anderson Silva <anderson@fazti.com.br>
+ * @license   MIT License - view the LICENSE file that was distributed with this source code.
+ */
+ 
 namespace diskingressos\yii2ireport;
 
 class PHPJasperXML{
