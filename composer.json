@@ -19,7 +19,9 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": { 
-            "diskingressos\\yii2ireport\\": ""
+            "diskingressos\\yii2ireport\\": "",
+            "diskingressos\\yii2ireport\\lib\\": "lib/",
+            "diskingressos\\yii2ireport\\lib\\fpdf": "lib/fpdf/"
         }
     }    
 }

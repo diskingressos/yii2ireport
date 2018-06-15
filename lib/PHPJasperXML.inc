@@ -6,7 +6,7 @@
  * @license   MIT License - view the LICENSE file that was distributed with this source code.
  */
  
-namespace diskingressos\yii2ireport;
+namespace diskingressos\yii2ireport\lib;
 
 class PHPJasperXML{
 private $adjust=1.2;

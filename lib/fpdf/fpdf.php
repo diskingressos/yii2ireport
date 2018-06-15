@@ -1,5 +1,5 @@
 <?php
-namespace diskingressos\yii2ireport;
+namespace diskingressos\yii2ireport\lib\fpdf;
 /*******************************************************************************
 * FPDF                                                                         *
 *                                                                              *
