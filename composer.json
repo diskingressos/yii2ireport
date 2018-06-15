@@ -1,0 +1,20 @@
+{
+    "name": "diskingressos/yii2ireport",
+    "type": "yii2-extension",
+    "description": "Create Reports in PHP with PHPJasperXML",
+    "license": "MIT",
+    "keywords": ["reports","jasper","jasperreports","java","php","yii2", "yiiframework", "ireport"],
+    "homepage": "https://github.com/diskingressos/yii2ireport",
+    "authors": [
+        {
+            "name": "Anderson Silva",
+            "email": "anderson@fazti.com.br",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "yiisoft/yii2": "*"
+    }  
+}
+
