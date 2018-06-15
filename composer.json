@@ -13,8 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
-        "yiisoft/yii2": "*"
+        "php": ">=7.0.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
