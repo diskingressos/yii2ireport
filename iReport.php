@@ -20,7 +20,7 @@ use yii\helpers\ArrayHelper;
 class iReport extends Component
 {
 
-    private jasper;
+    private $jasper;
 
     public function __construct() {
         $this->jasper = new PHPJasperXML();

@@ -19,8 +19,11 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": { 
-            "diskingressos\\yii2ireport\\": "" 
+            "diskingressos\\yii2ireport\\": "" ,
+            "diskingressos\\yii2ireport\\PHPJasperXML": "class/",
+            "diskingressos\\yii2ireport\\fpdf\\": "fpdf/"
         }
     }    
 }
+
 
