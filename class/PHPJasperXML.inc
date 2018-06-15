@@ -1,4 +1,6 @@
 <?php
+namespace diskingressos\yii2ireport;
+
 class PHPJasperXML{
 private $adjust=1.2;
 public function PHPJasperXML()
